@@ -1,0 +1,14 @@
+
+#newNote {
+    background-color: pink;
+    width: 50%;
+    height: fit-content;
+    border-radius: 5px;
+}
+
+#noteList {
+    background-color: blanchedalmond;
+    width: 50%;
+    height: fit-content;
+    border-radius: 5px;
+}
